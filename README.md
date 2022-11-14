@@ -1,1 +1,1 @@
-# mix-of-promotions
+# Pour ceux qui voulaient voir les scripts.
